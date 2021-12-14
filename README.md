@@ -1,4 +1,4 @@
-# React Website Example - getting started
+# React Website Example v1 - getting started
 
 To run the script, first clone or download this repository on your PC, then follow next steps.
 
