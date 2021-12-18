@@ -1,6 +1,6 @@
 # React Website Example v1 - getting started
 
-![Webpage](https://i.imgur.com/bN5MwGz.jpg)
+![Webpage](https://i.imgur.com/bN5MwGz.jpg?1)
 
 To run the script, first clone or download this repository on your PC, then follow next steps.
 
