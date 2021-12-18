@@ -46,7 +46,7 @@ function HeroSection({
                 >
                 {description}
                 </p>
-                <ExternalLink href={"https://github.com/kol242"}>
+                <ExternalLink href={"https://portfolio-kolinger.netlify.app/"}>
                   <Button buttonSize="btn--wide" buttonColor="blue">
                     {buttonLabel}
                   </Button>
